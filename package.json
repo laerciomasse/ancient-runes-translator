@@ -1,0 +1,25 @@
+{
+  "name": "ancient-runes-translator",
+  "version": "1.1.2",
+  "description": "Translate modern text to fictional ancient runes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laerciomasse/ancient-runes-translator"
+  },
+  "keywords": [
+    "runes",
+    "translator",
+    "ancient",
+    "fictional",
+    "language"
+  ],
+  "author": "Leo Barnett",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
